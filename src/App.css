@@ -1,0 +1,51 @@
+.textarea{
+  margin:0 auto 1vh 20%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 60%;
+  padding: 10px;
+
+}
+
+.neechekicheeze {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  max-width: 950px; /* Adjust max-width as needed */
+  margin: 0 auto; /* Center horizontally */
+}
+
+.text-area {
+  width: 97%;
+  font-size: 1.3em;
+  height: 3em;
+  border-radius: 20em;
+  margin-left: 8px;
+  padding-left: 5%;
+  resize: none;
+  outline: none;
+  overflow: hidden;
+}
+
+input {
+  display: none;
+}
+
+svg {
+  margin: 5px 10px;
+}
+
+.round {
+  border-radius: 20em;
+}
+
+.dark-color{
+  background-color: grey;
+}
+
+.container-fluid{
+  margin:0;
+  padding: 10px;
+}
+
